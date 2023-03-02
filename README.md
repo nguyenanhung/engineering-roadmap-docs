@@ -1,10 +1,12 @@
-# Introduction
+# Giới thiệu
 
-This framework allows software engineering managers to have meaningful conversations with their direct reports around the expectations of each position and how to plan for the next level in their career ladder.
+Với việc xây dựng được roadmap vả carrer path dành cho DEV, việc xác định được các khía cạnh liên quan và có ảnh hưởng tới sự nghiệp của kỹ sư phần mềm rất quan trọng.
 
-Although the framework uses roles and levels that are somewhat standard in the US tech industry, every company is different. Please use the information provided as a baseline and feel free adjust it to your needs.
+Khuôn khổ này cho phép các leader có những cuộc trò chuyện hay ho với các cấp dưới trực tiếp của họ xung quanh những kỳ vọng của từng vị trí và cách lập kế hoạch cho cấp độ tiếp theo trong nấc thang sự nghiệp của nhân viên.
 
-The framework relies heavily on radar charts to visually represent the different perspectives and expectations of a given position:
+Mặc dù tài liệu này sử dụng các vai trò và cấp độ có phần tiêu chuẩn trong ngành công nghệ Hoa Kỳ, tuy nhiên, có thể coi là chuẩn chung khi bơi ra biển lớn mà công ty có thể tham khảo.
+
+Khung chủ yếu dựa vào biểu đồ radar để thể hiện trực quan các quan điểm và kỳ vọng khác nhau của một vị trí nhất định:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="charts/template-dark.png">
@@ -12,16 +14,18 @@ The framework relies heavily on radar charts to visually represent the different
   <img alt="Template Chart" src="charts/template.png">
 </picture>
 
-# Career Ladders
+# Con đường sự nghiệp của 1 kỹ sư phần mềm
 
-The framework has 4 different ladders:
+Có 4 con đường sự nghiệp chính của 1 kỹ sư phần mềm:
 
-* [**Developer**](Developer.md): role also known as programmer or software engineer, requires a deep level of technical expertise
-* [**Tech Lead**](TechLead.md): role also known as dev lead, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support
-* [**Technical Program Manager**](TechnicalProgramManager.md): role responsible for coordinating and driving to completion initiatives that span multiple teams
-* [**Engineering Manager**](EngineeringManager.md): role also known as dev manager, is responsible for the consistent delivery, career growth and level of happiness of the team
+* [**Developer**](Developer.md): vai trò còn được gọi là lập trình viên hoặc kỹ sư phần mềm, đòi hỏi trình độ chuyên môn sâu về kỹ thuật
+* [**Tech Lead**](TechLead.md): vai trò còn được gọi là trưởng nhóm phát triển, là xây dựng ra codebase và yêu cầu có khả năng đồng bộ giữa lập trình, kiến ​​trúc và hỗ trợ sản xuất sản phẩm
+* [**Technical Program Manager**](TechnicalProgramManager.md): vai trò chịu trách nhiệm điều phối và thúc đẩy các sáng kiến ​​​​hoàn thành trải rộng trên nhiều nhóm
+* [**Engineering Manager**](EngineeringManager.md): vai trò còn được gọi là người quản lý nhà phát triển, chịu trách nhiệm về việc phân phối nhất quán, phát triển nghề nghiệp và mức độ hạnh phúc của nhóm
 
-If you are confused about the difference between a [Tech Lead](TechLead.md) and an [Engineering Manager](EngineeringManager.md), please refer to the [Tech Lead vs Engineering Manager](TechLead-EngineeringManager.md) page for a detailed comparison.
+Sự khác nhau giữa [Tech Lead](TechLead.md) và [Engineering Manager](EngineeringManager.md), sẽ được trình bày chi tiết hơn trong [Tech Lead vs Engineering Manager](TechLead-EngineeringManager.md).
+
+# Các cấp độ sự nghiệp
 
 | Level | Senior | [Developer](Developer.md) | [Tech Lead](TechLead.md) | [Technical Program Manager](TechnicalProgramManager.md) | [Engineering Manager](EngineeringManager.md) |
 | :---: | :---: | :---: | :---: | :---: |  :---: |
@@ -33,16 +37,17 @@ If you are confused about the difference between a [Tech Lead](TechLead.md) and 
 | 6 | Yes | [D6](Developer.md#d6---developer-6) | [TL6](TechLead.md#tl6---tech-lead-6) | [TPM6](TechnicalProgramManager.md#tpm6---technical-program-manager-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
 | 7 | Yes | [D7](Developer.md#d7---developer-7) | [TL7](TechLead.md#tl7---tech-lead-7) | [TPM7](TechnicalProgramManager.md#tpm7---technical-program-manager-7) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
 
-(click on position name for more details)
+(click vào tên vị trí để biết thêm chi tiết)
 
-# Axes
+# Axes (5 trục của biểu đồ)
 
 The chart shown above has the following 5 axes:
-* **Technology**: knowledge of the tech stack and tools
-* **System**: level of ownership of the system(s)
-* **People**: relationship with the team(s)
-* **Process**: level of engagement with the development process
-* **Influence**: scope of influence of the position
+
+* **Technology - Công nghệ**: knowledge of the tech stack and tools
+* **System - Hệ thống**: level of ownership of the system(s)
+* **People - Con người**: relationship with the team(s)
+* **Process - Quy trình**: level of engagement with the development process
+* **Influence - Tầm ảnh hưởng**: scope of influence of the position
 
 The **influence** axis can be seen as a *different dimension* since it is orthogonal and applies to all the other axes.
 
