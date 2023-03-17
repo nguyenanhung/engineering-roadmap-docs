@@ -19,23 +19,23 @@ Khung chủ yếu dựa vào biểu đồ radar để thể hiện trực quan c
 Có 4 con đường sự nghiệp chính của 1 kỹ sư phần mềm:
 
 * [**Developer**](Developer.md): vai trò còn được gọi là lập trình viên hoặc kỹ sư phần mềm, đòi hỏi trình độ chuyên môn sâu về kỹ thuật
-* [**Tech Lead**](TechLead.md): vai trò còn được gọi là trưởng nhóm phát triển, là xây dựng ra codebase và yêu cầu có khả năng đồng bộ giữa lập trình, kiến ​​trúc và hỗ trợ sản xuất sản phẩm
-* [**Technical Program Manager**](TechnicalProgramManager.md): vai trò chịu trách nhiệm điều phối và thúc đẩy các sáng kiến ​​​​hoàn thành trải rộng trên nhiều nhóm
+* [**Tech Lead**](TechLead.md): vai trò còn được gọi là trưởng nhóm phát triển, là xây dựng ra codebase và yêu cầu có khả năng đồng bộ giữa lập trình, kiến trúc và hỗ trợ sản xuất sản phẩm
+* [**Technical Program Manager**](TechnicalProgramManager.md): vai trò chịu trách nhiệm điều phối và thúc đẩy các sáng kiến hoàn thành trải rộng trên nhiều nhóm
 * [**Engineering Manager**](EngineeringManager.md): vai trò còn được gọi là người quản lý nhà phát triển, chịu trách nhiệm về việc phân phối nhất quán, phát triển nghề nghiệp và mức độ hạnh phúc của nhóm
 
 Sự khác nhau giữa [Tech Lead](TechLead.md) và [Engineering Manager](EngineeringManager.md), sẽ được trình bày chi tiết hơn trong [Tech Lead vs Engineering Manager](TechLead-EngineeringManager.md).
 
 # Các cấp độ sự nghiệp
 
-| Level | Senior | [Developer](Developer.md) | [Tech Lead](TechLead.md) | [Technical Program Manager](TechnicalProgramManager.md) | [Engineering Manager](EngineeringManager.md) |
-| :---: | :---: | :---: | :---: | :---: |  :---: |
-| 1 | No | [D1](Developer.md#d1---developer-1) | | | |
-| 2 | No | [D2](Developer.md#d2---developer-2) | | | |
-| 3 | No | [D3](Developer.md#d3---developer-3) | | | |
-| 4 | Yes | [D4](Developer.md#d4---developer-4) | [TL4](TechLead.md#tl4---tech-lead-4) | [TPM4](TechnicalProgramManager.md#tpm4---technical-program-manager-4) | |
-| 5 | Yes | [D5](Developer.md#d5---developer-5) | [TL5](TechLead.md#tl5---tech-lead-5) | [TPM5](TechnicalProgramManager.md#tpm5---technical-program-manager-5) | [EM5](EngineeringManager.md#em5---engineering-manager-5) |
-| 6 | Yes | [D6](Developer.md#d6---developer-6) | [TL6](TechLead.md#tl6---tech-lead-6) | [TPM6](TechnicalProgramManager.md#tpm6---technical-program-manager-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
-| 7 | Yes | [D7](Developer.md#d7---developer-7) | [TL7](TechLead.md#tl7---tech-lead-7) | [TPM7](TechnicalProgramManager.md#tpm7---technical-program-manager-7) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
+| Level | Senior |      [Developer](Developer.md)      |       [Tech Lead](TechLead.md)       |        [Technical Program Manager](TechnicalProgramManager.md)        |       [Engineering Manager](EngineeringManager.md)       |
+|:-----:|:------:|:-----------------------------------:|:------------------------------------:|:---------------------------------------------------------------------:|:--------------------------------------------------------:|
+|   1   |   No   | [D1](Developer.md#d1---developer-1) |                                      |                                                                       |                                                          |
+|   2   |   No   | [D2](Developer.md#d2---developer-2) |                                      |                                                                       |                                                          |
+|   3   |   No   | [D3](Developer.md#d3---developer-3) |                                      |                                                                       |                                                          |
+|   4   |  Yes   | [D4](Developer.md#d4---developer-4) | [TL4](TechLead.md#tl4---tech-lead-4) | [TPM4](TechnicalProgramManager.md#tpm4---technical-program-manager-4) |                                                          |
+|   5   |  Yes   | [D5](Developer.md#d5---developer-5) | [TL5](TechLead.md#tl5---tech-lead-5) | [TPM5](TechnicalProgramManager.md#tpm5---technical-program-manager-5) | [EM5](EngineeringManager.md#em5---engineering-manager-5) |
+|   6   |  Yes   | [D6](Developer.md#d6---developer-6) | [TL6](TechLead.md#tl6---tech-lead-6) | [TPM6](TechnicalProgramManager.md#tpm6---technical-program-manager-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
+|   7   |  Yes   | [D7](Developer.md#d7---developer-7) | [TL7](TechLead.md#tl7---tech-lead-7) | [TPM7](TechnicalProgramManager.md#tpm7---technical-program-manager-7) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
 
 (click vào tên vị trí để biết thêm chi tiết)
 

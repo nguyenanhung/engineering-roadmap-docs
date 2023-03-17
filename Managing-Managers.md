@@ -6,8 +6,8 @@ When you get to higher levels of the manager's ladder, chances are that some of 
 The manager's actions have a bigger impact on their teams and therefore you need to set expectations differently.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/dashboard-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/dashboard.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/dashboard-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/dashboard.png">
   <img alt="Dashboard" src="/charts/dashboard.png">
 </picture>
 
@@ -22,11 +22,11 @@ Managers constantly face push from the Business to deliver value quickly while f
 
 ![Delivery](/charts/dashboard-delivery.png)
 
-| Business Impact | Technical Excellence |
-| :--- | :--- |
-| Speed | Quality |
+| Business Impact   | Technical Excellence |
+|:------------------|:---------------------|
+| Speed             | Quality              |
 | Customer Feedback | Code Maintainability |
-| Opportunity Cost | Tech Debt Cost |
+| Opportunity Cost  | Tech Debt Cost       |
 
 
 ## Goals
@@ -35,10 +35,10 @@ Aligning the team's goals and the individual's goals is critical to ensure a sce
 
 ![Goals](/charts/dashboard-goals.png)
 
-| Team | Individuals |
-| :--- | :--- |
-| Business Needs | Career Focus |
-| Team Expectations | Personal Interests |
+| Team              | Individuals            |
+|:------------------|:-----------------------|
+| Business Needs    | Career Focus           |
+| Team Expectations | Personal Interests     |
 | Group Performance | Individual Performance |
 
 
@@ -48,11 +48,11 @@ Although short-term vs long-term planning is sometimes seen as a "business vs te
 
 ![Planning](/charts/dashboard-planning.png)
 
-| Short-Term | Long-Term |
-| :--- | :--- |
-| Weekly Plan | Quarterly Plan |
-| Spike | Well Thought Out Design |
-| Solve Quickly | Solve Properly |
+| Short-Term    | Long-Term               |
+|:--------------|:------------------------|
+| Weekly Plan   | Quarterly Plan          |
+| Spike         | Well Thought Out Design |
+| Solve Quickly | Solve Properly          |
 
 
 ## Oversight
@@ -61,11 +61,11 @@ Managers usually have a hard time balancing how to delegate effectively without 
 
 ![Oversight](/charts/dashboard-oversight.png)
 
-| Control | Delegation |
-| :--- | :--- |
-| Micromanaging | Empowerment |
+| Control              | Delegation  |
+|:---------------------|:------------|
+| Micromanaging        | Empowerment |
 | Connected to Details | Big Picture |
-| Auditing | Trust |
+| Auditing             | Trust       |
 
 ## Relationships
 
@@ -74,10 +74,10 @@ Most managers will excel at building relationships with their direct reports (ma
 ![Relationships](/charts/dashboard-relationships.png)
 
 | Vertical (Managing Down / Up) | Horizontal (Managing Across) |
-| :--- | :--- |
-| Supervisor(s) | Stakeholders |
-| Direct Reports | Peers / Other Teams |
-| Indirect Reports | Users |
+|:------------------------------|:-----------------------------|
+| Supervisor(s)                 | Stakeholders                 |
+| Direct Reports                | Peers / Other Teams          |
+| Indirect Reports              | Users                        |
 
 ## Conclusion
 
