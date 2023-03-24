@@ -9,9 +9,9 @@ Mặc dù tài liệu này sử dụng các vai trò và cấp độ có phần 
 Khung chủ yếu dựa vào biểu đồ radar để thể hiện trực quan các quan điểm và kỳ vọng khác nhau của một vị trí nhất định:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="charts/template-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="charts/template.png">
-  <img alt="Template Chart" src="charts/template.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/template-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/template.png">
+  <img alt="Template Chart" src="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/template.png">
 </picture>
 
 # Con đường sự nghiệp của 1 kỹ sư phần mềm
