@@ -6,9 +6,9 @@ When you get to higher levels of the manager's ladder, chances are that some of 
 The manager's actions have a bigger impact on their teams and therefore you need to set expectations differently.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/dashboard-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/dashboard.png">
-  <img alt="Dashboard" src="/charts/dashboard.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/dashboard-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/dashboard.png">
+  <img alt="Dashboard" src="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/dashboard.png">
 </picture>
 
 How do you assess the managing skills of other managers?

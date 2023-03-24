@@ -13,9 +13,9 @@ If you have other managers as direct reports, you might want to read the [Managi
 ## EM5 - Engineering Manager 5
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/engineeringmanager-5-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/engineeringmanager-5.png">
-  <img alt="Engineering Manager 5" src="/charts/engineeringmanager-5.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/engineeringmanager-5-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/engineeringmanager-5.png">
+  <img alt="Engineering Manager 5" src="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/engineeringmanager-5.png">
 </picture>
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
@@ -27,9 +27,9 @@ If you have other managers as direct reports, you might want to read the [Managi
 ## EM6 - Engineering Manager 6
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/engineeringmanager-6-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/engineeringmanager-6.png">
-  <img alt="Engineering Manager 6" src="/charts/engineeringmanager-6.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/engineeringmanager-6-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/engineeringmanager-6.png">
+  <img alt="Engineering Manager 6" src="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/engineeringmanager-6.png">
 </picture>
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
@@ -41,9 +41,9 @@ If you have other managers as direct reports, you might want to read the [Managi
 ## EM7 - Engineering Manager 7
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/engineeringmanager-7-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/engineeringmanager-7.png">
-  <img alt="Engineering Manager 7" src="/charts/engineeringmanager-7.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/engineeringmanager-7-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/engineeringmanager-7.png">
+  <img alt="Engineering Manager 7" src="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/engineeringmanager-7.png">
 </picture>
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team

@@ -12,9 +12,9 @@ Role responsible for coordinating and driving to completion initiatives that spa
 ## TPM4 - Technical Program Manager 4
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/technicalprogrammanager-4-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/technicalprogrammanager-4.png">
-  <img alt="Technical Program Manager 4" src="/charts/technicalprogrammanager-4.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/technicalprogrammanager-4-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/technicalprogrammanager-4.png">
+  <img alt="Technical Program Manager 4" src="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/technicalprogrammanager-4.png">
 </picture>
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
@@ -26,9 +26,9 @@ Role responsible for coordinating and driving to completion initiatives that spa
 ## TPM5 - Technical Program Manager 5
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/technicalprogrammanager-5-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/technicalprogrammanager-5.png">
-  <img alt="Technical Program Manager 5" src="/charts/technicalprogrammanager-5.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/technicalprogrammanager-5-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/technicalprogrammanager-5.png">
+  <img alt="Technical Program Manager 5" src="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/technicalprogrammanager-5.png">
 </picture>
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
@@ -40,9 +40,9 @@ Role responsible for coordinating and driving to completion initiatives that spa
 ## TPM6 - Technical Program Manager 6
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/technicalprogrammanager-6-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/technicalprogrammanager-6.png">
-  <img alt="Technical Program Manager 6" src="/charts/technicalprogrammanager-6.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/technicalprogrammanager-6-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/technicalprogrammanager-6.png">
+  <img alt="Technical Program Manager 6" src="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/technicalprogrammanager-6.png">
 </picture>
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
@@ -54,9 +54,9 @@ Role responsible for coordinating and driving to completion initiatives that spa
 ## TPM7 - Technical Program Manager 7
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/technicalprogrammanager-7-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/technicalprogrammanager-7.png">
-  <img alt="Technical Program Manager 7" src="/charts/technicalprogrammanager-7.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/technicalprogrammanager-7-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/technicalprogrammanager-7.png">
+  <img alt="Technical Program Manager 7" src="https://raw.githubusercontent.com/nguyenanhung/engineering-roadmap-docs/main/charts/technicalprogrammanager-7.png">
 </picture>
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
